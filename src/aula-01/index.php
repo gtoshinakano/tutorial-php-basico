@@ -82,6 +82,11 @@
                     <button class="btn btn-primary" onclick="mostrarConteudo2(false)">Mostrar Texto #elemento-02</button>
                 </div>
             </div>   
+            <div class='row' style='margin-top: 15px'>
+                <div class='col-md-12'>
+                    <pre>O atributo <b>onclick</b> da tag button diz ao navegador o que fazer quando o usuário clicar nele.</pre>
+                </div>
+            </div>
         </div>
     </body>
     
